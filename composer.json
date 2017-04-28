@@ -1,0 +1,14 @@
+{
+    "name": "pagarme/transaction-generator",
+    "type": "project",
+    "require": {
+        "pagarme/pagarme-php": "^3.2",
+        "fzaninotto/faker": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "Alexandre Guimenti",
+            "email": "alexguimenti@gmail.com"
+        }
+    ]
+}
